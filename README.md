@@ -13,7 +13,7 @@ And don't worry, the project is tested =)
 
 ### Screenshot
 
-![auth-screenshot](AspMvcAuth/Content/images/AuthImage.jpg)
+![auth-screenshot](AspMvcAuth/Content/images/AuthImage.png)
 
 ### License
 - [MIT](http://opensource.org/licenses/MIT)
